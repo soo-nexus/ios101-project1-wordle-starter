@@ -1,6 +1,6 @@
 # Project 1 - *Worlde*
 
-Submitted by: **Jonathan Soo*
+Submitted by: *Jonathan Soo*
 
 **Wordle* is an app that is a copy of the popular game worlde but using swift to be played on a mobile device as a seperate application
 
