@@ -2,7 +2,7 @@
 
 Submitted by: **Jonathan Soo*
 
-**Name of your app** is an app that ... [TODO] 
+**Wordle* is an app that is a copy of the popular game worlde but using swift to be played on a mobile device as a seperate application
 
 Time spent: **5** hours spent in total
 
